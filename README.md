@@ -1,4 +1,4 @@
-# Glow_Fade_Effect
+# Glow Fade Effect
 
 A shader fading effect made in Unity. 
 This simple setup allows you to create fading trails in a shader that you can apply to any arbitrary mesh.
